@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post with a Background Image
+title: summary
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 image:
