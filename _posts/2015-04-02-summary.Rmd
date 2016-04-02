@@ -1,5 +1,4 @@
 ---
-servr::jekyll()
 layout: post
 title: summary
 description: "Sample post with a background image CSS override."
