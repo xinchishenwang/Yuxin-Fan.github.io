@@ -1,13 +1,10 @@
 ---
 layout: post
-description: "test my first blog"
-tags: [sample post] [Rmd]
+title: Post with a Background Image
+description: "Sample post with a background image CSS override."
+tags: [sample post]
 image:
   background: triangular.png
-title: "Summary 0308"
-author: "Alan Jay"
-date: "2016.3.9"
-output: html_document
 ---
 #1. 条件语句
 if 常用的两种方式：if-else/ifelse
