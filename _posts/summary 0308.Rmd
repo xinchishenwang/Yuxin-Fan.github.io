@@ -1,4 +1,9 @@
 ---
+layout: post
+description: "test my first blog"
+tags: [sample post] [Rmd]
+image:
+  background: triangular.png
 title: "Summary 0308"
 author: "Alan Jay"
 date: "2016.3.9"
