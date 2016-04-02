@@ -1,7 +1,11 @@
-source "https://rubygems.org"
+source 'http://ruby.taobao.org/'
 
-gem "jekyll", "~> 3.0"
-gem "jekyll-sitemap"
-gem "octopress"
-gem "jekyll-paginate"
-gem "jekyll-gist"
+gem 'jekyll'
+gem 'sass'
+gem 'octopress', '~> 3.0.0.rc.12'
+gem 'jekyll-sitemap'
+gem 'kramdown'
+gem 'stringex'
+gem 'pygments.rb'
+gem 'redcarpet', '~> 3.2', '>= 3.2.3'
+gem 'rouge'
