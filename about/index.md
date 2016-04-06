@@ -8,13 +8,13 @@ comments: false
 modified: 2016-02-01
 ---
 
-### Hi, this is my personal page. I would like to introduce myself here.[^1]
+### Hi, this is my personal page. I would like to introduce myself here. [^1]
 -----------------------------------------
 
 
 I am a penultimate year student in the B.Ec program of [School of Statistics and Mathematics]() in the [Central University of Finance and Economics (China)](). My GPA after 5 semesters is 3.6/4.0.
 
-I am a R user and python learner, also a fan of R. I enjoy the moment of using R.
+I am a R user and python learner, also a fan of R. I enjoy the moment of using R.  
 
 I like Statistics and Mathematics (although I am not very good at it) and interested in Maco-economics.
 
