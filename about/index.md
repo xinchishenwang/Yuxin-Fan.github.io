@@ -8,7 +8,7 @@ comments: false
 modified: 2016-02-01
 ---
 
-###Hi, this is my personal page. I would like to introduce myself here.
+###Hi, this is my personal page. I would like to introduce myself here.[^1]
 -----------------------------------------
 
 
@@ -41,3 +41,6 @@ I would like to go on to study in ecnomics field, prepare to apply phd in statis
 I wish that my efforts and new ideas could be quite helpful to what the project/research topic demands.
 
 Here is my [CV]() and [Cover Letter]()
+
+
+[^1]do not finish yet
