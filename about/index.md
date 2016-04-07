@@ -8,7 +8,7 @@ comments: false
 modified: 2016-02-01
 ---
 
-### Hi, this is my personal page. I would like to introduce myself here[^1].
+## *Hi, this is my personal page. I would like to introduce myself here[^1].*
 -----------------------------------------
 
 
@@ -20,10 +20,10 @@ I like Statistics and Mathematics (although I am not very good at it) and intere
 
 **In statistics fields**, I have done many projects involve,
  
- + Ridge Regression | [Report](); [Code]()
- + Linear Regression | [Pdf](); [Code]()
- + SVM, Classfication | [Pdf](); [Code]()  
- + Machine Learning | [Code]()
+* Ridge Regression | [Report](); [Code]()
+* Linear Regression | [Pdf](); [Code]()
+* SVM, Classfication | [Pdf](); [Code]()  
+* Machine Learning | [Code]()
 
 
 The book *Machine Learning whith R* and *An Introduction to Statistical Learning* give me too much spark.
