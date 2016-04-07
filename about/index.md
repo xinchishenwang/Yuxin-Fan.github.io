@@ -4,11 +4,11 @@ title: Me，Myself and I
 image:
   feature: abstract-5.jpg
 
-
+comments: false
 modified: 2016-02-01
 ---
 
-### Hi, this is my personal page. I would like to introduce myself here. [^1]
+### Hi, this is my personal page. I would like to introduce myself here[^1].
 -----------------------------------------
 
 
@@ -30,9 +30,9 @@ The book *Machine Learning whith R* and *An Introduction to Statistical Learning
 
 **In economics fields**, 
  
- + Time Series analysis | [Report](); [Code]()
- + Literature Review about *The impact of the government on the economy* | [Report]()
- + Effect of inquiry range on underpricing | [Report]()
+* Time Series analysis | [Report](); [Code]()
+* Literature Review about *The impact of the government on the economy* | [Report]()
+* Effect of inquiry range on underpricing | [Report]()
 
 *Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
 
@@ -43,4 +43,4 @@ I wish that my efforts and new ideas could be quite helpful to what the project/
 Here is my [CV]() and [Cover Letter]()
 
 
-[^1]do not finish yet
+[^1]: do not finish yet
