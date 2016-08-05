@@ -35,15 +35,15 @@ links:
     url: /projects/
   - title: Blogs
     url: /Blogs/
-  - #title: 
-   # url: /experience/
+  - title: About Me 
+    url: /experience/
   - title: Hobbies
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 future: true
-pygments: true
+rouge: true
 markdown: kramdown
 
 
