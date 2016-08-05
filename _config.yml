@@ -1,20 +1,20 @@
-title: Jason Ansel
+title: Jiafeng(Alan) Liu
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jasonansel.com
+url: http://Jiafengliu.me
 
 # Owner/author information
 owner:
-  name:           Jason Ansel
-  avatar:         jasonansel.jpg
+  name:           Jiafeng
+  avatar:         Jiafeng.jpg
 #  bio:
-  email:          jasonansel@jasonansel.com
+  email:          
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
+  github: JayfongL
+  linkedin: 
   instagram:
   lastfm:
   tumblr:
@@ -29,26 +29,26 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
   - title: Projects
     url: /projects/
-  - title: Publications
-    url: /publications/
-  - title: Experience
-    url: /experience/
+  - title: Blogs
+    url: /Blogs/
+  - #title: 
+   # url: /experience/
   - title: Hobbies
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/New_York
+timezone: Asia/Shanghai
 future: true
 pygments: true
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+#permalink:   /:categories/:title
 
 kramdown:
   auto_ids: true
