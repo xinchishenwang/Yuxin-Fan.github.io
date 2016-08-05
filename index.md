@@ -1,37 +1,46 @@
 ---
 layout: page
+title: Me，Myself and I
+image:
+  feature: abstract-5.jpg
+
+comments: false
+modified: 2016-02-01
 ---
 
-# About Me
-
-<img src="/images/jasonansel3.jpg" class="floatpic" width="200" height="200">
-My name is Jason Ansel.  I am a Director of Engineering at GoDaddy, which
-I joined in 2013 as part of the [acquisition] of the startup [Locu][locu].
-I started working for Locu in 2011, while I was simultaneously pursuing
-my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.  I was the
-first non-founder employee of Locu and my work there and at GoDaddy focuses
-on creating machine learning algorithms for extracting semantic information
-from unstructured web content.
-
-I spend some of my free time working on [OpenTuner], an extensible framework
-for program autotuning.  We are currently looking for users, if interested
-the source code is available on the [OpenTuner] site.
-
-As part of my PhD dissertation, I started the [PetaBricks] language and
-compiler project.  PetaBricks is a language that incorporates algorithmic
-choices to allow an integrated autotuner to explore search spaces of program
-implementations.  As an undergraduate I did research with [Gene Cooperman]
-and helped create [DMTCP], a user-level distributed checkpoint/restart system.
+## *Hi, this is my personal page. I would like to introduce myself here[^1].*
+-----------------------------------------
 
 
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
+I am a penultimate year student in the B.Ec program, major in Economics Statistics, of [School of Statistics and Mathematics]() in the [Central University of Finance and Economics (China)](). 
 
+I am a R user and python learner, also a fan of R. I enjoy the moment of using R.  
+
+I like Statistics and Mathematics (although I am not very good at it) and interested in Maco-economics.
+
+**In statistics fields**, I have done many projects involve,
+ 
+1. Ridge Regression | [Report](); [Code]()
+2. Linear Regression | [Pdf](); [Code]()
+3. SVM, Classfication | [Pdf](); [Code]()  
+4. Machine Learning | [Code]()
+
+
+The book *Machine Learning whith R* and *An Introduction to Statistical Learning* give me too much spark.
+
+**In economics fields**, 
+ 
+1. Time Series analysis | [Report](); [Code]()
+2. Literature Review about *The impact of the government on the economy* | [Report]()
+3. Effect of inquiry range on underpricing | [Report]()
+
+*Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
+
+I would like to go on to study in ecnomics field, prepare to apply phd in statistics or ecnomics (better) later this year. Thus, I am looking for an internship or RA in a economics or statistics group.
+
+I wish that my efforts and new ideas could be quite helpful to what the project/research topic demands.
+
+Here is my [CV]() and [Cover Letter]()
+
+
+[^1]: do not finish yet
