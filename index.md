@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About Me
 ---
 
 # About me
@@ -34,9 +33,9 @@ I wish that my efforts and new ideas could be quite helpful to what the project/
 Here is my [CV] and [Cover Letter]
 
 
-[School of Statistics and Mathematics]:
-[Central University of Finance and Economics (China)]:
-[CV]:
-[Cover letter]:
+[School of Statistics and Mathematics]:http://www.cufe.edu.cn/
+[Central University of Finance and Economics (China)]:http://sam.cufe.edu.cn/
+[CV]:http://sam.cufe.edu.cn/
+[Cover letter]:http://sam.cufe.edu.cn/
 
 
