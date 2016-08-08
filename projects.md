@@ -22,11 +22,11 @@ title: Projects
 
 
 
-[ToolBox]: https://github.com/JayfongL/ToolBox
+[ToolBox]: https://github.com/JayfongL
 [Prof.Li]: https://feng.li
-[RandomForest]: https://github.com/JayfongL/ToolBox
-[find detail]: Jiafengliu.me/others/why-do-this-package
-[Cython translation]: https://github.com/JayfongL/CythonTranslation
+[RandomForest]: https://github.com/JayfongL
+[find detail]: https://Jiafengliu.me
+[Cython translation]: https://github.com/JayfongL
 
 
 

@@ -13,16 +13,16 @@ I like Statistics and Mathematics and interested in Maco-economics and Econometr
 
 **In statistics fields**, I have done many projects involve,
 
-- Ridge Regression | [Report]; [Code]
-- Linear Regression | [Pdf]; [Code]
-- SVM, Classfication | [Pdf]; [Code] 
-- Machine Learning | [Code]
+- Ridge Regression | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+- Linear Regression | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+- SVM, Classfication | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+- Machine Learning | [Code](https://Jiafengliu.me)
 
 **In economics fields**, 
  
-- Time Series analysis | [Report]; [Code]
-- Literature Review about *The impact of the government on the economy* | [Report]
-- Effect of inquiry range on underpricing | [Report]
+- Time Series analysis | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+- Literature Review about *The impact of the government on the economy* | [Report](https://Jiafengliu.me)
+- Effect of inquiry range on underpricing | [Report](https://Jiafengliu.me)
 
 *Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
 
@@ -33,9 +33,9 @@ I wish that my efforts and new ideas could be quite helpful to what the project/
 Here is my [CV] and [Cover Letter]
 
 
-[School of Statistics and Mathematics]:http://www.cufe.edu.cn/
-[Central University of Finance and Economics (China)]:http://sam.cufe.edu.cn/
-[CV]:http://sam.cufe.edu.cn/
-[Cover letter]:http://sam.cufe.edu.cn/
+[School of Statistics and Mathematics]:https://www.cufe.edu.cn/
+[Central University of Finance and Economics (China)]:https://sam.cufe.edu.cn/
+[CV]:https://sam.cufe.edu.cn/
+[Cover letter]:https://sam.cufe.edu.cn/
 
 
