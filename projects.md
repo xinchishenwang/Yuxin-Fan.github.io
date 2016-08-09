@@ -4,20 +4,20 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Personal Projects based on interesed
+## Personal Projects based on interesed
 
-## [ToolBox]
+### [ToolBox]
 [ToolBox] is a useful R package, including some small but rigorous functions. Every time when I use R to compelet or build statistical models, I would use these functions freqently. Encouraged by [Prof.Li], I finished this R package by myself. ([find detail])
 
 
-## [RandomForest]
+### [RandomForest]
 [RandomForest] is a Python Project
 
 
-# Team Projects
+## Team Projects
 
 
-## [Cython translation]
+### [Cython translation]
 [Cython translation], translating *Cython* into Chinese.
 
 

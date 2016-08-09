@@ -11,6 +11,10 @@ I am a big fan of R and also a python user. I enjoy the moment of using R.
 
 I like Statistics and Mathematics and interested in Maco-economics and Econometrics.
 
+*Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
+
+I would like to go on to study in ecnomics field, prepare to apply phd in statistics or ecnomics (better) later this year. Thus, I am looking for an internship or RA in a economics or statistics group.
+
 **In statistics fields**, I have done many projects involve,
 
   - Ridge Regression; [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
@@ -22,13 +26,10 @@ I like Statistics and Mathematics and interested in Maco-economics and Econometr
  
   - Time Series analysis; [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
   - Literature Review about *The impact of the government on the economy*; [Report](https://Jiafengliu.me)
-  - Effect of inquiry range on underpricing; [Report](https://Jiafengliu.me)
+  - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Report](https://Jiafengliu.me)
 
-*Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
 
-I would like to go on to study in ecnomics field, prepare to apply phd in statistics or ecnomics (better) later this year. Thus, I am looking for an internship or RA in a economics or statistics group.
-
-I wish that my efforts and new ideas could be quite helpful to what the project/research topic demands.
+I wish that my efforts and new ideas could be quite helpful to what the project or research topic demands.
 
 Here is my [CV] and [Cover Letter]
 
