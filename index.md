@@ -13,10 +13,10 @@ I like Statistics and Mathematics and interested in Maco-economics and Econometr
 
 **In statistics fields**, I have done many projects involve,
 
-  - Ridge Regression | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-  - Linear Regression | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-  - SVM, Classfication | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-  - Machine Learning | [Code](https://Jiafengliu.me)
+  - Ridge Regression; [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Linear Regression; [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - SVM, Classfication; [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Machine Learning; [Code](https://Jiafengliu.me)
 
 **In economics fields**, 
  
