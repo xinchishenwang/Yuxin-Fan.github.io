@@ -13,16 +13,16 @@ I like Statistics and Mathematics and interested in Maco-economics and Econometr
 
 **In statistics fields**, I have done many projects involve,
 
-- Ridge Regression | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-- Linear Regression | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-- SVM, Classfication | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-- Machine Learning | [Code](https://Jiafengliu.me)
+  - Ridge Regression | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Linear Regression | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - SVM, Classfication | [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Machine Learning | [Code](https://Jiafengliu.me)
 
 **In economics fields**, 
  
-- Time Series analysis | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-- Literature Review about *The impact of the government on the economy* | [Report](https://Jiafengliu.me)
-- Effect of inquiry range on underpricing | [Report](https://Jiafengliu.me)
+  - Time Series analysis | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Literature Review about *The impact of the government on the economy* | [Report](https://Jiafengliu.me)
+  - Effect of inquiry range on underpricing | [Report](https://Jiafengliu.me)
 
 *Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
 

@@ -1,5 +1,6 @@
 ---
-layout: Hobbies
+layout: page
+permalink: /hobbies/index.html
 title: Hobbies
 ---
 
@@ -10,7 +11,7 @@ I started learning cooking when I was in Sweden. I enjoyed cooking and good at d
 
 
 ## Football
-I am at fullback in my College Team-SAM, I like playing football with my friends. when I was under pressure, I prefer to playing football.
+I am at fullback in my College *Team-SAM*, I like playing football with my friends. when I was under pressure, I prefer to playing football.
 
 
 ## Past Hobbies
