@@ -4,7 +4,7 @@ layout: page
 
 # About me
 
-<img src="/images/Jiafeng2.JPG" class="floatpic" width="200" height="200">
+<img src="/images/Jiafeng2.JPG" class="floatpic" width="220" height="200">
 My name is Jiafeng Liu.  I am a penultimate year student in the B.Ec program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (China)].
 
 I am a big fan of R and also a python user. I enjoy the moment of using R.  
@@ -20,9 +20,9 @@ I like Statistics and Mathematics and interested in Maco-economics and Econometr
 
 **In economics fields**, 
  
-  - Time Series analysis | [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
-  - Literature Review about *The impact of the government on the economy* | [Report](https://Jiafengliu.me)
-  - Effect of inquiry range on underpricing | [Report](https://Jiafengliu.me)
+  - Time Series analysis; [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Literature Review about *The impact of the government on the economy*; [Report](https://Jiafengliu.me)
+  - Effect of inquiry range on underpricing; [Report](https://Jiafengliu.me)
 
 *Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
 
