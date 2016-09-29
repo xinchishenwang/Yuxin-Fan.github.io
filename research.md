@@ -47,8 +47,8 @@ I am a researcher in [The China Gazetteer Project], which is a large scale data 
 
 [Prof. Ma]: http://sam.cufe.edu.cn/english/faculty/majingyi.html
 [Prof.Wang]: http://sam.cufe.edu.cn/english/faculty/wanghuijuan.html
-[Prof.Li]: https://feng.li
+[Prof.Li]: http://feng.li
 
 [Ministry of Education of the PRC]: http://www.moe.gov.cn/
-[The China Gazetteer Project]: https://www.chinagazetteer.com
-[Interdisciplinary Contest in Modeling]: https://www.comap.com/
+[The China Gazetteer Project]: http://www.chinagazetteer.com
+[Interdisciplinary Contest in Modeling]: http://www.comap.com/
