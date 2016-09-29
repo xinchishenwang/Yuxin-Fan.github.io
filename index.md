@@ -5,15 +5,15 @@ layout: page
 # About me
 
 <img src="/images/Jiafeng2.JPG" class="floatpic" width="220" height="200">
-My name is Jiafeng Liu.  I am a penultimate year student in the B.Ec program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (China)].
+My name is Jiafeng Liu.  I am a last year student in the B.Ec program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (China)].
 
 I am a big fan of R and also a python user. I enjoy the moment of using R.  
 
 I like Statistics and Mathematics and interested in Maco-economics and Econometrics.
 
-*Principles of Economics (Mankiw)* lead me to a new world, *Time Series Analysis with applications in R* and *Applied Economatrics (Wooldridge)* teach me how to do reasearch in economics fields.
+I have learned following courses:
 
-I would like to go on to study in ecnomics field, prepare to apply phd in statistics or ecnomics (better) later this year. Thus, I am looking for an internship or RA in a economics or statistics group.
+I would like to go on to study in statistical field, prepare to apply Ph.D in statistics later this year.
 
 **In statistics fields**, I have done many projects involve,
 
@@ -34,9 +34,9 @@ I wish that my efforts and new ideas could be quite helpful to what the project 
 Here is my [CV] and [Cover Letter]
 
 
-[School of Statistics and Mathematics]:https://www.cufe.edu.cn/
-[Central University of Finance and Economics (China)]:https://sam.cufe.edu.cn/
-[CV]:https://sam.cufe.edu.cn/
-[Cover letter]:https://sam.cufe.edu.cn/
+[School of Statistics and Mathematics]:http://www.cufe.edu.cn/
+[Central University of Finance and Economics (China)]:http://sam.cufe.edu.cn/
+[CV]: http://sam.cufe.edu.cn/
+[Cover letter]:http://sam.cufe.edu.cn/
 
 
