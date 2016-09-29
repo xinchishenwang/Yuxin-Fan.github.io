@@ -4,10 +4,9 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 #Content
-pubs:
-  - author: "Jiafeng"
-    title: "MCMC in R"
-    keywords: "MCMC"
-    month: "April"
-    year: "2015"
-    url: 2015-04-01-MCMC.html
+
+- ["MCMC in R"]
+	keywords:"MCMC"; data: April 2015
+
+
+["MCMC in R"]: http://Jiafengliu.me/blogs/2015-04-01-MCMC.html
