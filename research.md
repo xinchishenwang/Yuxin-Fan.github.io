@@ -37,18 +37,18 @@ I am a researcher in [The China Gazetteer Project], which is a large scale data 
 [ToolBox]: https://github.com/JayfongL
 [RandomForest]: https://github.com/JayfongL
 
-[find detail]: https://Jiafengliu.me
+[find detail]: http://Jiafengliu.me
 [Cython translation]: https://github.com/JayfongL
 
 [PDF, Chinese]: https://github.com/JayfongL
 
-[data visualization (pdf)]: https://jiafengliu.me/research/2016-Construction-of-Railways
+[data visualization (pdf)]: http://jiafengliu.me/research/2016-railways
 
 
-[Prof. Ma]: https://sam.cufe.edu.cn/english/faculty/majingyi.html
-[Prof.Wang]: https://sam.cufe.edu.cn/english/faculty/wanghuijuan.html
+[Prof. Ma]: http://sam.cufe.edu.cn/english/faculty/majingyi.html
+[Prof.Wang]: http://sam.cufe.edu.cn/english/faculty/wanghuijuan.html
 [Prof.Li]: https://feng.li
 
-[Ministry of Education of the PRC]: https://www.moe.gov.cn/
+[Ministry of Education of the PRC]: http://www.moe.gov.cn/
 [The China Gazetteer Project]: https://www.chinagazetteer.com
 [Interdisciplinary Contest in Modeling]: https://www.comap.com/
