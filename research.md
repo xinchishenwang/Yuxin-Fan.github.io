@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /research/index.html
+title: Research
 ---
 # Research Projects
 
@@ -35,15 +35,20 @@ I am a researcher in [The China Gazetteer Project], which is a large scale data 
 
 
 [ToolBox]: https://github.com/JayfongL
-[Prof.Li]: https://feng.li
 [RandomForest]: https://github.com/JayfongL
+
 [find detail]: https://Jiafengliu.me
 [Cython translation]: https://github.com/JayfongL
-[Ministry of Education of the PRC]: https://www.moe.gov.cn/
+
 [PDF, Chinese]: https://github.com/JayfongL
-[The China Gazetteer Project]: https://www.chinagazetteer.com
-[data visualization (pdf)]: https://github.com/JayfongL
-[Prof.Wang]: http://sam.cufe.edu.cn/english/faculty/wanghuijuan.html
-[Interdisciplinary Contest in Modeling]: https://www.comap.com/
+
+[data visualization (pdf)]: https://jiafengliu.me/research/2016-Construction-of-Railways
+
 
 [Prof. Ma]: https://sam.cufe.edu.cn/english/faculty/majingyi.html
+[Prof.Wang]: https://sam.cufe.edu.cn/english/faculty/wanghuijuan.html
+[Prof.Li]: https://feng.li
+
+[Ministry of Education of the PRC]: https://www.moe.gov.cn/
+[The China Gazetteer Project]: https://www.chinagazetteer.com
+[Interdisciplinary Contest in Modeling]: https://www.comap.com/
