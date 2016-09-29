@@ -11,7 +11,7 @@ I am a big fan of R and also a python user. I enjoy the moment of using R.
 
 I like Statistics and Mathematics and interested in Maco-economics and Econometrics.
 
-I have learned following courses:
+I have learned following courses
 
 I would like to go on to study in statistical field, prepare to apply Ph.D in statistics later this year.
 
