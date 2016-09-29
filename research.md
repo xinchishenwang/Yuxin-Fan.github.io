@@ -6,7 +6,7 @@ title: Research
 # Research Projects
 
 ## National Innovation Training Program
-This project is sponsored by [Ministry of Education of the PRC]. I was one Project Leader. In this project, we based on the policy published in Sep. 2006, after analysing over 1400 companies whose IPO between 2006 and 2015. We discussed the effect of the policy on the securities market by using econometric method including logistic model and two-stage regression. And then finished a paper, *Effect of inquiry range on underpricing based on Shanghai-A-Share*[PDF, Chinese], which also received honor from a competition **The Challenge Cup**.
+This project is sponsored by [Ministry of Education of the PRC]. I was one Project Leader. In this project, we based on the policy published in Sep. 2006, after analysing over 1400 companies whose IPO between 2006 and 2015. We discussed the effect of the policy on the securities market by using econometric method including logistic model and two-stage regression. And then finished a paper, *Effect of inquiry range on underpricing based on Shanghai-A-Share*([PDF, Chinese]), which also received honor from a competition **The Challenge Cup**.
 
 ## Undergraduate Research Project
 I was a Research Assistant for [Prof.Wang]'s Team.
@@ -19,7 +19,7 @@ I am a researcher in [The China Gazetteer Project], which is a large scale data 
 # Personal Projects
 
 ## [ToolBox]
-[ToolBox] is a useful R package, including some small but rigorous functions. Every time when I use R to compelet or build statistical models, I would use these functions freqently. Encouraged by [Prof.Li], I finished this R package by myself. ([find detail])
+[ToolBox] is a useful R package, including some small but rigorous functions. Every time when I use R to compelet or build statistical models, I would use these functions freqently. Encouraged by [Prof.Li], I finished this R package by myself. ([Find detail])
 
 
 ## [RandomForest]
@@ -42,7 +42,7 @@ I am a researcher in [The China Gazetteer Project], which is a large scale data 
 
 [PDF, Chinese]: https://github.com/JayfongL
 
-[data visualization (pdf)]: http://jiafengliu.me/research/2016-railways
+[data visualization (pdf)]: http://jiafengliu.me/research/2016-railways.pdf
 
 
 [Prof. Ma]: http://sam.cufe.edu.cn/english/faculty/majingyi.html
