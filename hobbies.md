@@ -14,6 +14,9 @@ I started learning cooking when I was in Sweden. I enjoyed cooking and good at d
 I am at fullback in my College *Team-SAM*, I like playing football with my friends. when I was under pressure, I prefer to playing football.
 
 
+##Hiking
+I love hiking, usually walk in the night with friends.
+
 ## Past Hobbies
 I previously enjoyed table tennis and basketball, learned play the violin from 6 to 16 years old. However, I almost forget how to play it, I hope I can learn it when I am free.
 

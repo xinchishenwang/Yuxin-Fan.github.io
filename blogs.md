@@ -16,7 +16,7 @@ pubs:
     keywords: "Tag: R"
     month: "March"
     year: "2016"
-    url: 2016-03-01-rSkills(2).html
+    url: 2016-03-08-rSkills(2).html
 
 
   - author: "Jiafeng"
@@ -24,17 +24,17 @@ pubs:
     keywords: "Tag: R"
     month: "March"
     year: "2016"
-    url: 2016-03-01-rSkills(3).html
+    url: 2016-03-15-rSkills(3).html
 
   - author: "Jiafeng"
-    title: "Best Subset Selection(code)"
+    title: "Best Subset Selection(R code)"
     keywords: "Tag: subset selection"
     month: "March"
     year: "2016"
     url: 2016-03-10-Best-subset-selection.html
 
   - author: "Jiafeng"
-    title: "Ridge Regression(code)"
+    title: "Ridge Regression(R code)"
     keywords: "Tag: ridge regression"
     month: "March"
     year: "2016"
