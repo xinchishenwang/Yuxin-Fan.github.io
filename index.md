@@ -5,11 +5,7 @@ layout: page
 # About me
 
 <img src="/images/Jiafeng2.JPG" class="floatpic" width="220" height="200">
-My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (China)].  I am also a remote research assistant in Department of Economics Harvard University, researcher in Economics and Management Lab and charge of CATI Lab ([click for detail about my research experience]). I am a big fan of R and also a python user, ever did several projects by using R and python modelling and analysing. I like Statistics and Mathematics and interested in Maco-economics and Econometrics. I would like to go on to study in statistical field, specifically in ‘statistic learning’ or ‘computational statistics’, prepare to apply Ph.D. in statistics later this year. 
-
-I have learned following courses: 
-
-
+My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (China)].  I am also a remote research assistant in Department of Economics Harvard University, researcher in Economics and Management Lab and charge of CATI Lab ([click for detail about my research experience]). I am a big fan of R and also a python user, ever did several projects by using R and python to model and analyse. I like Statistics and Mathematics and interested in Maco-economics and Econometrics. I would like to go on studying in statistical field, specifically in ‘statistic learning’ or ‘computational statistics’, prepare to apply Ph.D. in statistics later this year. 
 
 **In statistics fields**, I have done many projects involve,
 
