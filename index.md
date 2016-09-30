@@ -22,7 +22,7 @@ I would like to go on to study in statistical field, prepare to apply Ph.D in st
   - SVM, Classfication; [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
   - Machine Learning; [Code](https://Jiafengliu.me)
 
-**In economics fields**, 
+**In economics and econometrics fields**, 
  
   - Time Series analysis; [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
   - Literature Review about *The impact of the government on the economy*; [Report](https://Jiafengliu.me)

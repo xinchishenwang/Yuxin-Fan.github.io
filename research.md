@@ -50,15 +50,16 @@ I was a Research Assistant in [Economics and Management Lab], responsible for or
 [Prof.Wang]: http://sam.cufe.edu.cn/english/faculty/wanghuijuan.html
 [Prof.Li]: https://feng.li
 
-<<<<<<< HEAD
+
 [The China Gazetteer Project]: http://www.chinagazetteer.com
 [Ministry of Education of the PRC]: http://www.moe.gov.cn/
 [Interdisciplinary Contest in Modeling]: http://www.comap.com/
 [COMAP]: http://www.comap.com/
 [Press Conference]: http://sam.cufe.edu.cn/xyxw/96348.html
 [Economics and Management Lab]: http://etsc.cufe.edu.cn/
-=======
+
+
 [Ministry of Education of the PRC]: http://www.moe.gov.cn/
 [The China Gazetteer Project]: https://www.chinagazetteer.com
 [Interdisciplinary Contest in Modeling]: https://www.comap.com/
->>>>>>> parent of 9433ea5... update
+
