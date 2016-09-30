@@ -22,7 +22,8 @@ pubs:
     {% endif %}{% if pub.type %}({{pub.type}})
     {% endif %}<br>
     {{pub.author}}.<br>
-    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]
+    {% if pub.type == 'Technical Report' %}{{pub.number}} 
+    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}
 {% endunless %}
 {% endfor %}
