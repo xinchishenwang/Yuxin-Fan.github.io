@@ -19,11 +19,9 @@ pubs:
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
-    {% endif %}{% if pub.type %}({{pub.type}})
-    {% endif %}<br>
-    {{pub.author}}.<br>
-    {% if pub.type == 'Technical Report' %}{{pub.number}} 
-    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
+    {% endif %}
+    {{pub.keywords}}.<br>
+    {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}
 {% endunless %}
 {% endfor %}
