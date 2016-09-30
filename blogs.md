@@ -63,7 +63,7 @@ pubs:
     {% else %} {{pub.title}}.
     {% endif %}{% if pub.type %}({{pub.type}})
     {% endif %}<br>
-    {{pub.keywords}};{{pub.month}}, {{pub.year}}.<br>
+    {{pub.keywords}}; {{pub.month}}, {{pub.year}}.<br>
     {% if pub.type == 'Technical Report' %}{{pub.number}} 
     {% endif %}{% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}
