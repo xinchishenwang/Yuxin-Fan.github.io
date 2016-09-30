@@ -5,7 +5,7 @@ title: Blogs
 pubs:
 
   - author: "Jiafeng"
-    title: "MCMC in R"
+    title: "How to Use R to do Markov Chain Monte Carlo"
     keywords: "MCMC"
     month: "April"
     year: "2015"
@@ -22,12 +22,7 @@ pubs:
     {% endif %}{% if pub.type %}({{pub.type}})
     {% endif %}<br>
     {{pub.author}}.<br>
-    {% if pub.type == 'Technical Report' %}{{pub.number}}
-    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}.<br>
-    {% if pub.address %}{{pub.address}}.
-    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
-    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]
     {% endif %}
 {% endunless %}
 {% endfor %}
