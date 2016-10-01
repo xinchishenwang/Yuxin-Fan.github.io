@@ -6,7 +6,7 @@ title: Research
 # Research Projects
 
 ## National Innovation Training Program
-This project is sponsored by [Ministry of Education of the PRC]. I was one Project Leader. We based on the policy published in Sep. 2006 and discussed the effect of the policy on the securities market involved over 1400 companies whose IPO between 2006 and 2015, by using econometric method including logistic model and two-stage regression. Finished a paper, *Effect of inquiry range on underpricing based on Shanghai-A-Share*([PDF, Chinese]), which also received honor from a competition **The Challenge Cup**.
+This project is sponsored by [Ministry of Education of the PRC]. I was one  of project leaders. We based on the policy published in Sep. 2006 and discussed the effect of the policy on the securities market involved over 1400 companies whose IPO between 2006 and 2015, by using econometric method including logistic model and two-stage regression. Finished a paper, *Effect of inquiry range on underpricing based on Shanghai-A-Share*([PDF, Chinese]), which also received honor from a competition **The Challenge Cup**.
 
 ## [Interdisciplinary Contest in Modeling]
 ICM is a competition held by [COMAP], ( the Consortium for Mathematics and Its Applications), our team participated the competition in 2015 and I am the team leader, we write a paper about ‘Social Network’ and received *Honorable Mention*. In the paper we started with defining the initial value of messages by information entropy and PageRank algorithm, then we simulated how the messages value changed in the whole process by real Facebook data.
