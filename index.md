@@ -12,13 +12,13 @@ My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in 
   - Ridge Regression; [Report](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html); [Code](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html)
   - Linear Regression; [Pdf](https://github.com/JayfongL); [Code](https://github.com/JayfongL)
   - Time Series analysis; [Report](https://github.com/JayfongL); [Code](https://github.com/JayfongL)
-  - SVM, Classfication; [Pdf](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - SVM, Classfication; [Pdf](http://Jiafengliu.me); [Code](https://Jiafengliu.me/research/2015-SVMcar_classification.R)
   - Decision Tree and Random Forest; [Code](https://github.com/JayfongL)
-
+  - MCMC; [Code](http://Jiafengliu.me/research/2015-MCMC.R)
   
 **In economics and econometrics fields**, 
  
-  - Time Series analysis; [Report](https://Jiafengliu.me); [Code](https://Jiafengliu.me)
+  - Time Series analysis; [Report](https://Jiafengliu.me); [Code](http://Jiafengliu.me)
   - Literature Review: *The impact of the government on the economy*; [Chinese Report](http://Jiafengliu.me/research)
   - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Chinese Report](http://Jiafengliu.me/research)
 
