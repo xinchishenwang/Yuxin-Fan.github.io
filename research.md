@@ -38,11 +38,11 @@ I was a Research Assistant in [Economics and Management Lab], responsible for or
 
 [ToolBox]: https://github.com/JayfongL
 [RandomForest]: https://github.com/JayfongL
-[find detail]: http://Jiafengliu.me
+[find detail]: http://Jiafengliu.me/reserch/paperRequest.txt
 [Cython translation]: https://github.com/JayfongL
 
 
-[PDF, Chinese]: http://jiafengliu.me/research/2016-dachuang.pdf
+[PDF, Chinese]: http://Jiafengliu.me/reserch/paperRequest.txt
 [data visualization (pdf)]: http://jiafengliu.me/research/2016-railways.pdf
 
 

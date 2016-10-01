@@ -10,19 +10,19 @@ My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in 
 **In statistics fields**, I have done many projects involve,
 
   - Ridge Regression; [Report](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html); [Code](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html)
-  - Linear Regression; [Pdf](https://github.com/JayfongL); [Code](http://Jiafengliu.me/research/2015-LinearModel.R)
+  - Linear Regression; [Code](http://Jiafengliu.me/research/2015-LinearModel.R)
   - Best Subset Regression; [Report](http://Jiafengliu.me/blogs/2016-03-10-Best-subset-selection.html); [Code](http://Jiafengliu.me/blogs/2016-03-10-Best-subset-selection.html)
-  - Time Series analysis; [Report](https://github.com/JayfongL); [Code](http://Jiafengliu.me/research/2015-TimeSeries.R)
-  - SVM, Classfication; [Pdf](http://Jiafengliu.me); [Code](https://Jiafengliu.me/research/2015-SVMcar_classification.R)
+  - Time Series analysis; [Code](http://Jiafengliu.me/research/2015-TimeSeries.R)
+  - SVM, Classfication; [Pdf](http://Jiafengliu.me/reserch/paperRequest.txt); [Code](https://Jiafengliu.me/research/2015-SVMcar_classification.R)
   - Decision Tree and Random Forest; [Code](https://github.com/JayfongL)
   - MCMC; [Code](http://Jiafengliu.me/research/2015-MCMC.R)
-  - Newton Iteration; [Report](http://Jiafengliu.me/blogs/2015-04-01-Newton-Iteration.html)[Code](http://Jiafengliu.me/research/2015-Newton.R)
+  - Newton Iteration; [Report](http://Jiafengliu.me/blogs/2015-04-01-Newton-Iteration.html); [Code](http://Jiafengliu.me/research/2015-Newton.R)
   
 **In economics and econometrics fields**, 
  
-  - Time Series analysis; [Report](https://Jiafengliu.me); [Code](http://Jiafengliu.me)
-  - Literature Review: *The impact of the government on the economy*; [Chinese Report](http://Jiafengliu.me/research)
-  - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Chinese Report](http://Jiafengliu.me/research)
+  - Time Series analysis; [Code](http://Jiafengliu.me/research/2015-TimeSeries.R)
+  - Literature Review: *The impact of the government on the economy*; [Chinese Report](http://Jiafengliu.me/reserch/paperRequest.txt)
+  - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Chinese Report](http://Jiafengliu.me/reserch/paperRequest.txt)
 
 
 I wish that my efforts and new ideas could be quite helpful to what the project or research topic demands.

@@ -9,10 +9,8 @@ title: Hobbies
 ## Cooking
 I started learning cooking when I was in Sweden. I enjoyed cooking and good at doing traditional Chinese food. Recieving too many great comment from my friends. 
 
-
 ## Football
 I am at fullback in my College *Team-SAM*, I like playing football with my friends. when I was under pressure, I prefer to playing football.
-
 
 ##Hiking
 I love hiking, usually walk in the night with friends.
