@@ -17,6 +17,7 @@ My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in 
   - Decision Tree and Random Forest; [Code](https://github.com/JayfongL)
   - MCMC; [Code](http://Jiafengliu.me/research/2015-MCMC.R)
   - Newton Iteration; [Report](http://Jiafengliu.me/blogs/2015-04-01-Newton-Iteration.html)[Code](http://Jiafengliu.me/research/2015-Newton.R)
+  
 **In economics and econometrics fields**, 
  
   - Time Series analysis; [Report](https://Jiafengliu.me); [Code](http://Jiafengliu.me)
