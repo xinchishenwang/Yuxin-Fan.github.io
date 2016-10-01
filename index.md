@@ -27,7 +27,7 @@ My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in 
 
 I wish that my efforts and new ideas could be quite helpful to what the project or research topic demands.
 
-Here is my [CV] and [Cover Letter]
+
 
 
 [School of Statistics and Mathematics]:http://www.cufe.edu.cn/
