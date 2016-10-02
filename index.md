@@ -5,11 +5,12 @@ layout: page
 # About Me
 
 <img src="/images/Jiafeng2.JPG" class="floatpic" width="220" height="200">
-My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (China)].  I am also a remote research assistant in Department of Economics Harvard University, researcher in Economics and Management Lab and charge of CATI Lab ([click for detail about my research experience]). I am a big fan of R and also a python user, ever did several projects by using R and python to model and analyse. I like Statistics and Mathematics and interested in Maco-economics and Econometrics. I would like to go on studying in statistical field, specifically in ‘statistic learning’ or ‘computational statistics’, prepare to apply Ph.D. in statistics later this year. 
+My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (CUFE, China)].  I am also a remote research assistant in Department of Economics Harvard University, researcher in Economics and Management Lab CUFE and charge of CATI Lab ([click for detail about my research experience]). I am a big fan of R and also a python user, ever did several projects by using R and python to model and analyse. I like Statistics and Mathematics and interested in Maco-economics and Econometrics. I would like to go on studying in statistical field, specifically in ‘statistical learning’, computational statistics’ or related areas, prepare to apply Ph.D. later this year. 
 
 **In statistics fields**, I have done many projects involve,
 
   - Ridge Regression; [Report](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html); [Code](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html)
+  - Lasso Regression and LARS Regression
   - Linear Regression; [Code](http://Jiafengliu.me/research/2015-LinearModel.R)
   - Best Subset Regression; [Report](http://Jiafengliu.me/blogs/2016-03-10-Best-subset-selection.html); [Code](http://Jiafengliu.me/blogs/2016-03-10-Best-subset-selection.html)
   - Time Series analysis; [Code](http://Jiafengliu.me/research/2015-TimeSeries.R)
@@ -31,7 +32,7 @@ I wish that my efforts and new ideas could be quite helpful to what the project 
 
 
 [School of Statistics and Mathematics]:http://www.cufe.edu.cn/
-[Central University of Finance and Economics (China)]:http://sam.cufe.edu.cn/
+[Central University of Finance and Economics (CUFE, China)]:http://sam.cufe.edu.cn/
 
 [CV]: http://sam.cufe.edu.cn/
 [Cover letter]:http://sam.cufe.edu.cn/
