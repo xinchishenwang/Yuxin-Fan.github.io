@@ -5,9 +5,9 @@ layout: page
 # About Me
 
 <img src="/images/Jiafeng2.JPG" class="floatpic" width="220" height="200">
-My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (CUFE, China)].  I am also a remote research assistant in Department of Economics Harvard University, researcher in Economics and Management Lab CUFE and charge of CATI Lab ([click for detail about my research experience]). I am a big fan of R and also a python user, ever did several projects by using R and python to model and analyse. I like Statistics and Mathematics and interested in Maco-economics and Econometrics. I would like to go on studying in statistical field, specifically in ‘statistical learning’, computational statistics’ or related areas, prepare to apply Ph.D. later this year. 
+My name is Jiafeng Liu.  I am a final year student in the B.Sc program, majoring in Economics Statistics, of [School of Statistics and Mathematics] in the [Central University of Finance and Economics (CUFE, China)].  I am also a remote research assistant in Department of Economics Harvard University, researcher in Economics and Management Lab CUFE and the charge of CATI Lab ([click for detail about my research experience]). I am a big fan of R and also a python user. I have done several projects by using R and python to do modeling and data analysis. I like Statistics and Mathematics and I am also interested in Macroeconomics and Econometrics. I would like to go on studying in statistics, specifically in ‘statistical learning’, computational statistics’ or related areas, preparing to apply for Ph.D. later this year. 
 
-**In statistics fields**, I have done many projects involve,
+**In statistics fields**, I have done many projects involving,
 
   - Ridge Regression; [Report](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html); [Code](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html)
   - Lasso Regression and LARS Regression
@@ -26,7 +26,7 @@ My name is Jiafeng Liu.  I am a last year student in the B.Sc program, major in 
   - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Chinese Report](http://Jiafengliu.me/reserch/paperRequest.txt)
 
 
-I wish that my efforts and new ideas could be quite helpful to what the project or research topic demands.
+I wish that my efforts and ideas could be prepare me well for future research projects. 
 
 
 
