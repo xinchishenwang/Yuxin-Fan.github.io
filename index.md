@@ -12,7 +12,7 @@ My name is Jiafeng Liu.  I am a final year student in the B.Sc program, majoring
   - Linear Regression; [Code](http://Jiafengliu.me/research/2015-LinearModel.txt)
   - Ridge, Lasso, LARS Regression; [Report](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html); [Code](http://Jiafengliu.me/blogs/2016-03-14-Ridge-Regression.html)
   - Best Subset Regression; [Report](http://Jiafengliu.me/blogs/2016-03-10-Best-subset-selection.html); [Code](http://Jiafengliu.me/blogs/2016-03-10-Best-subset-selection.html)
-  - SVM, Classfication; [Report](http://Jiafengliu.me/reserch/paperRequest.txt); [Code](https://Jiafengliu.me/research/2015-SVMcar_classification.txt)
+  - SVM, Classfication; [Report](http://Jiafengliu.me/research/paperRequest.txt); [Code](https://Jiafengliu.me/research/2015-SVMcar_classification.txt)
   - Principal component analysis
   - Clustering
   - Time Series analysis; [Code](http://Jiafengliu.me/research/2015-TimeSeries.txt)
@@ -23,8 +23,8 @@ My name is Jiafeng Liu.  I am a final year student in the B.Sc program, majoring
 **In economics and econometrics fields**, 
  
   - Time Series analysis; [Code](http://Jiafengliu.me/research/2015-TimeSeries.txt)
-  - Literature Review: *The impact of the government on the economy*; [Chinese Report](http://Jiafengliu.me/reserch/paperRequest.txt)
-  - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Chinese Report](http://Jiafengliu.me/reserch/paperRequest.txt)
+  - Literature Review: *The impact of the government on the economy*; [Chinese Report](http://Jiafengliu.me/research/paperRequest.txt)
+  - *Effect of inquiry range on underpricing based on Shanghai A Share*; [Chinese Report](http://Jiafengliu.me/research/paperRequest.txt)
 
 
 I wish that my efforts and ideas could be prepare me well for future research projects. 
