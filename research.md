@@ -6,7 +6,7 @@ title: Research
 # Research Projects
 
 ## [The China Gazetteer Project]
-I was a researcher between April to August 2016, of [The China Gazetteer Project] of **Department of Economics Harvard University**, which is a large scale data project to digitize economic data at Yenching Library Harvard University. The project was held by Prof.Freeman Ascherman Professor of Economics Harvard University, it involves organizing and tagging volumes, achieving optimal character recognition, data cleaning. I was responsible for database building, data cleaning and [data visualization (PDF)].
+I was a Research Assistant between April to August 2016, of [The China Gazetteer Project] of **Department of Economics Harvard University**, which is a large scale data project to digitize economic data at Yenching Library Harvard University. The project was held by Prof.Freeman Ascherman Professor of Economics Harvard University, it involves organizing and tagging volumes, achieving optimal character recognition, data cleaning. I was responsible for database building, data cleaning and [data visualization (PDF)].
 
 ## [Economics and Management Lab]
 I was a Research Assistant in [Economics and Management Lab] in 2014 and 2015, responsible for organizing telephone interviews (over 100 interviewers) and collecting data (over 1500 records every quarter). The raw data would be cleaned and then published as **Chinese Consumer Confidence Index** every quarter. (link for the [Press Conference])
