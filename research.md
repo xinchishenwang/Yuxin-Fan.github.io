@@ -5,14 +5,14 @@ title: Research
 ---
 # Research Projects
 
-## [The China Gazetteer Project]
+## [The China Gazetteer Project] of Harvard University
 I was a Research Assistant between April to August 2016, of [The China Gazetteer Project] of **Department of Economics Harvard University**, which is a large scale data project to digitize economic data at Yenching Library Harvard University. The project was held by Prof.Freeman Ascherman Professor of Economics Harvard University, it involves organizing and tagging volumes, achieving optimal character recognition, data cleaning. I was responsible for database building, data cleaning and [data visualization (PDF)].
 
 ## [Economics and Management Lab]
 I was a Research Assistant in [Economics and Management Lab] in 2014 and 2015, responsible for organizing telephone interviews (over 100 interviewers) and collecting data (over 1500 records every quarter). The raw data would be cleaned and then published as **Chinese Consumer Confidence Index** every quarter. (link for the [Press Conference])
 
 ## National Innovation Training Program
-This project is sponsored by [Ministry of Education of the PRC]. I was one  of project leaders. Based on the policy published in Sep. 2006，we discussed the effect of the policy on the securities market which involved over 1400 companies whose IPO were between 2006 and 2015, by using econometric method including logistic model and two-stage regression. We finished a paper, *Effect of inquiry range on underpricing based on Shanghai-A-Share* ([PDF, Chinese]), which also received honor from a competition **The Challenge Cup**.
+This project is sponsored by [Ministry of Finance of the PRC]. I was one  of project leaders. Based on the policy published in Sep. 2006，we discussed the effect of the policy on the securities market which involved over 1400 companies whose IPO were between 2006 and 2015, by using econometric method including logistic model and two-stage regression. We finished a paper, *Effect of inquiry range on underpricing based on Shanghai-A-Share* ([PDF, Chinese]), which also received honor from a competition **The Challenge Cup**.
 
 ## [Interdisciplinary Contest in Modeling]
 ICM is a competition held by [COMAP], the Consortium for Mathematics and Its Applications, our team participated the competition in 2015 and I am the team leader, we wrote a paper about **social network** and received *Honorable Mention*. The paper firstly defined the initial value of messages by using information entropy and PageRank algorithm, then simulated how the messages value changed in the whole process by applying real Facebook data.
