@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <img src="/images/fyxhg.png" class="floatpic" width="200" height="150">
-& nbsp & nbsp Yuxin Fan, born on Sept.8th, 1996, a senior year student studying for double major in Korean and Economics at [Peking University (PKU, China)]. Post graduate study of population economics at [PKU, China] from Sept. 2017. Great interest in ‘development economics’, ‘aging’ and ‘heath economics’. Would like to apply for Ph.D. of Economics in 2~3 years.
+　　Yuxin Fan, born on Sept.8th, 1996, a senior year student studying for double major in Korean and Economics at [Peking University (PKU, China)]. Post graduate study of population economics at [PKU, China] from Sept. 2017. Great interest in ‘development economics’, ‘aging’ and ‘heath economics’. Would like to apply for Ph.D. of Economics in 2~3 years.
 A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
 
 ## Education Background
@@ -24,7 +24,7 @@ A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about
   
 
 
-& nbsp & nbsp I wish that my efforts and ideas could be prepare me well for future research projects. 
+　　I wish that my efforts and ideas could be prepare me well for future research projects. 
 
 
 
