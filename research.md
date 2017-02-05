@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/index.html
+permalink: /intern&research/index.html
 title: Research
 ---
 # Research Projects
