@@ -6,12 +6,12 @@ layout: page
 
 <img src="/images/fyxhg.png" class="floatpic" width="200" height="150">
 　　Yuxin Fan, born on Sept.8th, 1996, a senior year student studying for double major in Korean and Economics at [Peking University (PKU, China)]. Post graduate study of population economics at [PKU, China] from Sept. 2017. Great interest in ‘development economics’, ‘aging’ and ‘heath economics’. Would like to apply for Ph.D. of Economics in 2~3 years.
-A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
+　　A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
 
 ## Education Background
-  - B.A. - [School of Foreign Language, Peking University] (2013-2017)
+  - B.A. - [School of Foreign Languages, Peking University] (2013-2017)
   - BS in Economics - [National School of Development, Peking University] (2015-2017)
-  - Exchange student - [Seoul National University, Korea] (2016)
+  - Exchange student - [Seoul National University, South Korea] (2016)
   
 ## Honors and Awards
 
@@ -29,9 +29,9 @@ A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about
 
 
 
-[School of Foreign Language, Peking University]:http://sfl.pku.edu.cn/
+[School of Foreign Languages, Peking University]:http://sfl.pku.edu.cn/
 [National School of Development, Peking University]:http://www.nsd.pku.edu.cn/
-[Seoul National University, Korea]:http://www.snu.ac.kr/
+[Seoul National University, South Korea]:http://www.snu.ac.kr/
 [Peking University (PKU, China)]:http://www.pku.edu.cn/
 [PKU, China]:http://www.pku.edu.cn/
 [Institute of Social Science Survey, Peking University]:http://www.isss.edu.cn/
