@@ -6,6 +6,8 @@ layout: page
 
 <img src="/images/fyxhg.jpg" class="floatpic" width="200" height="150">
 Yuxin Fan, a senior year student studying for double major in [Korean] and [Economics] at [Peking University (PKU, China)]. Post graduate study of population economics at [PKU, China] from Sept. 2017. Great interest in ‘development economics’, ‘aging’ and ‘heath economics’. Would like to apply for Ph.D. of Economics in 2~3 years. A stata&SPSS user, learning studying Python and R.  Good at cooking, Crazy about travelling and symphony, Having some acquaintance with calligraphy, painting and mobiel photography. 
+
+
 **In XXX fields**, I have done projects involving,
 
   - Linear Regression; [Code](http://Jiafengliu.me/research/2015-LinearModel.txt)
