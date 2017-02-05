@@ -9,9 +9,9 @@ layout: page
   　A stata&SPSS user. Learning studying Python and R.  Good at cooking. Crazy about travelling and symphony. Having some acquaintance with calligraphy, painting and mobile photography. 
 
 ## Education Background
-  - B.A. - [School of Foreign Languages, Peking University] (2013-2017) 
-  - BS in Economics - [National School of Development, Peking University] (2015-2017) 
-  - Exchange student - [Seoul National University, South Korea] (2016)
+  - B.A. - [School of Foreign Languages, Peking University] (2013-2017)     
+  - BS in Economics - [National School of Development, Peking University] (2015-2017)      
+  - Exchange student - [Seoul National University, South Korea] (2016)     
   　
 ## Honors and Awards
 
