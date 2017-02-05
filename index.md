@@ -10,18 +10,18 @@ layout: page
 
 ## Education Background
 
-　-　B.A. - [School of Foreign Languages, Peking University] (2013-2017)     
-　-　BS in Economics - [National School of Development, Peking University] (2015-2017)      
-  -　Exchange student - [Seoul National University, South Korea] (2016)     
+* B.A. - [School of Foreign Languages, Peking University] (2013-2017)     
+* BS in Economics - [National School of Development, Peking University] (2015-2017)      
+* Exchange student - [Seoul National University, South Korea] (2016)     
 
 ## Honors and Awards
 
-  - Peking University [Wooli Bank] Scholarship 
-  - Peking University Excellent Academy(2014-2015)
-  - Peking University [Hana Financial Group] Scholarship
-  - Peking University Excellent Academy(2015-2016)
-  - First Price of the 24th Session [Peking University "Challenge Cup"]
-  - Excellent Investigator of [Institute of Social Science Survey, Peking University]
+* Peking University [Wooli Bank] Scholarship 
+* Peking University Excellent Academy(2014-2015)
+* Peking University [Hana Financial Group] Scholarship
+* Peking University Excellent Academy(2015-2016)
+* First Price of the 24th Session [Peking University "Challenge Cup"]
+* Excellent Investigator of [Institute of Social Science Survey, Peking University]
   
 
 
