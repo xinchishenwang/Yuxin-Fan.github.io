@@ -6,7 +6,7 @@ url: http://fanyuxin.info
 # Owner/author information
 owner:
   name:           Yuxin Fan
-  avatar:         fyxhg.jpg
+  avatar:         fyxtx.jpg
 #  bio:
   email:        fanyuxin@pku.edu.cn 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -30,8 +30,8 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Research
-    url: /research/
+  - title: Intern&research
+    url: /intern&research/
   - title: Blogs
     url: /blogs/
   - title: Hobbies
