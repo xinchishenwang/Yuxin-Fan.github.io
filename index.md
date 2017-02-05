@@ -10,9 +10,9 @@ layout: page
 
 ## Education Background
 
-  - B.A. - [School of Foreign Languages, Peking University] (2013-2017)     
-  - BS in Economics - [National School of Development, Peking University] (2015-2017)      
-  - Exchange student - [Seoul National University, South Korea] (2016)     
+　-　B.A. - [School of Foreign Languages, Peking University] (2013-2017)     
+　-　BS in Economics - [National School of Development, Peking University] (2015-2017)      
+  -　Exchange student - [Seoul National University, South Korea] (2016)     
 
 ## Honors and Awards
 
