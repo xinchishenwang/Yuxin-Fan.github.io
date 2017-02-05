@@ -30,7 +30,7 @@ What I mostly enjoy are as follows
 * [Pomp and Circumstance Marches](http://music.163.com/#/m/song?id=33916310&userid=278895931)
 
 Netease Music ID: Yuxin96
-<img src="/images/netease.png" class="floatpic" width="150" height="150">
+<img src="/images/netease.jpg" class="floatpic" width="150" height="150">
 
 ### Reading
 Douban ID: 93191891
