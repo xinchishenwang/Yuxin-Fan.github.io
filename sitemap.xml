@@ -4,19 +4,19 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://Jiafengliu.me/</loc>
+      <loc>http://fanyuxin.info/</loc>
     </url>
     <url>
-      <loc>http://Jiafengliu.me/projects/</loc>
+      <loc>http://fanyuxin.info/projects/</loc>
     </url>
     <url>
-      <loc>http://Jiafengliu.me/blogs/</loc>
+      <loc>http://fanyuxin.info/blogs/</loc>
     </url>
     <url>
-      <loc>http://Jiafengliu.me/timelines/</loc>
+      <loc>http://fanyuxin.info/timelines/</loc>
     </url>
     <url>
-      <loc>http://Jiafengliu.me/hobbies/</loc>
+      <loc>http://fanyuxin.info/hobbies/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
