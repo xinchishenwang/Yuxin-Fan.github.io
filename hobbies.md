@@ -7,7 +7,7 @@ title: Hobbies
 ## Hobbies
 
 ### Cooking
-I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can do some traditional Korean food. Recieving too many great comments from my friends. 
+I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Recieving too many great comments from my friends. 
 
 ### Travelling
 Till Jan, 2017      
