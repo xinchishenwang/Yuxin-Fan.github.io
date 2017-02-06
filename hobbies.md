@@ -11,7 +11,7 @@ I started learning cooking when I was 6. I enjoy cooking.  I am good at doing tr
 
 ### Travelling
 Till Jan, 2017<br>    
-<center>
+</center>
 <img src="/images/zuji.png" class="floatpic" width="500" height="450"><br>   
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)<br>       
 </center>
