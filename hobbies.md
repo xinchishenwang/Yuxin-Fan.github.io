@@ -16,7 +16,7 @@ Till Jan, 2017
 
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)      
 
-<img src="/images/zujikr.jpg" class="floatpic" width="400">
+<img src="/images/zujikr.jpg" class="floatpic" width="400" height="600">
 
 ### Enjoying the symphony
 
