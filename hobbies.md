@@ -12,14 +12,15 @@ I started learning cooking when I was 6. I enjoy cooking.  I am good at doing tr
 ### Travelling
 Till Jan, 2017<br>    
 -------
-<img src="/images/zuji.png" class="floatpic" width="500" height="450"><br>
+![image](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png)
+
 -------
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)<br>      
 -------
 <img src="/images/zujikr.jpg" class="floatpic" width="400" height="500"><br>   
 -------
 ### Enjoying the symphony
-
+![image](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png)
 What I mostly enjoy are as follows
 
 * [Antonin Dvorak Symphonie Nr. 9 in e-Moll, Op. 95 “Aus der neuen Welt](http://music.163.com/#/m/song?id=2123727&userid=278895931)
