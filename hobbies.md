@@ -1,3 +1,4 @@
+
 ---
 layout: page
 permalink: /hobbies/index.html
@@ -12,13 +13,14 @@ I started learning cooking when I was 6. I enjoy cooking.  I am good at doing tr
 ### Travelling
 Till Jan, 2017
 
-<img src="/images/zuji.png" class="floatpic" width="400">
+<img src="/images/zuji.png" class="floatpic" width="50%" height=“50%”>
 
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)      
 
 <img src="/images/zujikr.jpg" class="floatpic" width="400">
 
 ### Enjoying the symphony
+
 What I mostly enjoy are as follows
 
 * [Antonin Dvorak Symphonie Nr. 9 in e-Moll, Op. 95 “Aus der neuen Welt](http://music.163.com/#/m/song?id=2123727&userid=278895931)
