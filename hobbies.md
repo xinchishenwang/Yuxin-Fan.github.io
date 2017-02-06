@@ -8,10 +8,10 @@ title: Hobbies
 
 ### Cooking
 I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Recieving too many great comments from my friends. 
-
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 ### Travelling
 Till Jan, 2017<br>    
-<img src="/images/zuji.png" class="floatpic" width="500" height="450"><br>
+![baidu](<img src="/images/zuji.png" class="floatpic" width="500" height="450"> "baidu lvyou")<br>   
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)<br>       
 <img src="/images/zujikr.jpg" class="floatpic" width="400" height="500"><br>   
 
