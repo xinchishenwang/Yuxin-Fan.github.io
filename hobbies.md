@@ -11,11 +11,11 @@ title: Hobbies
 
 ### Travelling
 
-#### Till Jan, 2017 in China
+##### Till Jan, 2017 in China
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png" width="70%" height="70%" />
 　　[view this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)  　
   
-#### Till June, 2016 in South Korea
+##### Till June, 2016 in South Korea
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zujikr.jpg" width="70%" height="70%" />
 
 ### Enjoying the symphony
@@ -34,6 +34,7 @@ title: Hobbies
 * [Pomp and Circumstance Marches](http://music.163.com/#/m/song?id=33916310&userid=278895931)
 
 　　Netease Music ID: Yuxin96
+  _____
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg" width="25%" height="25%" />
      
 ### Reading & Films    
