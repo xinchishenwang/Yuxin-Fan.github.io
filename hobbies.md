@@ -7,20 +7,21 @@ title: Hobbies
 ## Hobbies
 
 ### Cooking
-I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Recieving too many great comments from my friends. 
+　　I started learning cooking when I was 6. I enjoy cooking.  I am good at doing traditional Chinese food and I can also do some traditional Korean food. Recieving too many great comments from my friends. 
 
 ### Travelling
-Till Jan, 2017 in China
-![lvyou](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png)
-[view this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)  
-Till June, 2016 in South Korea
-![image](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zujikr.jpg)
+#### Till Jan, 2017 in China
+<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png" width="70%" height="70%" />
+　　[view this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)  　
+#### Till June, 2016 in South Korea
+<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zujikr.jpg" width="70%" height="70%" />
+
 ****
 _____
 
 ### Enjoying the symphony
 
-What I mostly enjoy are as follows
+　　What I mostly enjoy are as follows
 
 * [Antonin Dvorak Symphonie Nr. 9 in e-Moll, Op. 95 “Aus der neuen Welt](http://music.163.com/#/m/song?id=2123727&userid=278895931)
 * [Carman Overture](http://music.163.com/#/m/song?id=396827&userid=278895931)
@@ -33,11 +34,12 @@ What I mostly enjoy are as follows
 * [The Four Seasons, Concerto No.2 in G minor ("Summer")](http://music.163.com/#/m/song?id=2123708&userid=278895931)
 * [Pomp and Circumstance Marches](http://music.163.com/#/m/song?id=33916310&userid=278895931)
 
-Netease Music ID: Yuxin96<br>    
+　Netease Music ID: Yuxin96<br>    
 -------
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg" width="25%" height="25%" />
      
 -------
+
 ### Reading & Films    
 Douban ID: 93191891
 
