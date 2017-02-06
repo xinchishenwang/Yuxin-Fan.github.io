@@ -11,13 +11,13 @@ I started learning cooking when I was 6. I enjoy cooking.  I am good at doing tr
 
 ### Travelling
 Till Jan, 2017
-
-<img src="/images/zuji.png" class="floatpic" width="50%" height="50%"/>
-
+<br/>
+<img src="/images/zuji.png" class="floatpic" width="500" height="450">
+<br/>
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)      
-
-<img src="/images/zujikr.jpg" class="floatpic" width=400 height=600 />
-
+<br/>
+<img src="/images/zujikr.jpg" class="floatpic" width="400" height="500">
+<br/>
 ### Enjoying the symphony
 
 What I mostly enjoy are as follows
@@ -34,9 +34,9 @@ What I mostly enjoy are as follows
 * [Pomp and Circumstance Marches](http://music.163.com/#/m/song?id=33916310&userid=278895931)
 
 Netease Music ID: Yuxin96      
-
+<br/>
 <img src="/images/netease.jpg" class="floatpic" width="150" height="150">   
-
+<br/>
 ### Reading & Films    
 Douban ID: 93191891
 
