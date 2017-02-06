@@ -33,8 +33,8 @@ title: Hobbies
 * [The Four Seasons, Concerto No.2 in G minor ("Summer")](http://music.163.com/#/m/song?id=2123708&userid=278895931)
 * [Pomp and Circumstance Marches](http://music.163.com/#/m/song?id=33916310&userid=278895931)
 
-　　Netease Music ID: Yuxin96
-***
+　　Netease Music ID: Yuxin96    
+  *****
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg" width="25%" height="25%" />
      
 ### Reading & Films    
