@@ -11,17 +11,17 @@ title: Hobbies
 
 ### Travelling
 
-##### Till Jan, 2017 in China
+##### 　　Till Jan, 2017 in China
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png" width="70%" height="70%" />
 　　[view this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)  　
   
-##### Till June, 2016 in South Korea
+##### 　　Till June, 2016 in South Korea
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zujikr.jpg" width="70%" height="70%" />
 
 ### Enjoying the symphony
 
-　　What I mostly enjoy are as follows
-
+　　What I mostly enjoy are as follows：
+  
 * [Antonin Dvorak Symphonie Nr. 9 in e-Moll, Op. 95 “Aus der neuen Welt](http://music.163.com/#/m/song?id=2123727&userid=278895931)
 * [Carman Overture](http://music.163.com/#/m/song?id=396827&userid=278895931)
 * [Radetsky March](http://music.163.com/#/m/song?id=2986791&userid=278895931)
@@ -37,6 +37,6 @@ title: Hobbies
   
 <img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg" width="25%" height="25%" />
      
-### Reading & Films    
-Douban ID: 93191891
+### Reading & Films    
+　Douban ID: 93191891
 
