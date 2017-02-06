@@ -11,13 +11,12 @@ I started learning cooking when I was 6. I enjoy cooking.  I am good at doing tr
 
 ### Travelling
 Till Jan, 2017 in China
------
-[![lvyou]](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)  
 ![lvyou](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zuji.png)
------
+[view this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)  
 Till June, 2016 in South Korea
 ![image](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/zujikr.jpg)
------
+****
+_____
 
 ### Enjoying the symphony
 
@@ -36,7 +35,8 @@ What I mostly enjoy are as follows
 
 Netease Music ID: Yuxin96<br>    
 -------
-![image](http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg)     
+<img src="http://github.com/yuxin-fan/yuxin-fan.github.io/raw/master/images/netease.jpg" width="25%" height="25%" />
+     
 -------
 ### Reading & Films    
 Douban ID: 93191891
