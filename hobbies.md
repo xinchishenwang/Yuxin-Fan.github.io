@@ -12,11 +12,11 @@ I started learning cooking when I was 6. I enjoy cooking.  I am good at doing tr
 ### Travelling
 Till Jan, 2017
 
-<img src="/images/zuji.png" class="floatpic" width="50%" height="50%">
+<img src="/images/zuji.png" class="floatpic" width="50%" height="50%"/>
 
 [visit this page](https://lvyou.baidu.com/user/footprint/edc70502df3b8bcf3c02bfd0)      
 
-<img src="/images/zujikr.jpg" class="floatpic" width="400" height="600">
+<img src="/images/zujikr.jpg" class="floatpic" width=400 height=600 />
 
 ### Enjoying the symphony
 
