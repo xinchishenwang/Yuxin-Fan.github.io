@@ -19,12 +19,12 @@ layout: page
 * Peking University Excellent Academy(2014-2015)
 * Peking University [Hana Financial Group] Scholarship
 * Peking University Excellent Academy(2015-2016)
-* First Price of the 24th Session [Peking University "Challenge Cup"]
+* First Prize of the 24th Session [Peking University "Challenge Cup"]
 * Excellent Investigator of [Institute of Social Science Survey, Peking University]
   
 
 
-　　I wish that my efforts and ideas could be prepare me well for future research projects. 
+　　I wish that my efforts and ideas could prepare me well for future research projects. 
 
 
 
