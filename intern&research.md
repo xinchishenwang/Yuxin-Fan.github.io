@@ -6,7 +6,7 @@ title: Intern&Research
 ## Intern Experience
 
 ### Regional Investigator-iSSS (2015)   
-　　I was an investigator of [Institute of Social Science Survey (iSSS)], I investigated in Hunan and Guizhou province for more than a month. The taskS included the policy history of family planning, social insurance, and the situation of nursing institution for the aged. I also investigated the Respondents in almost every aspect from family information, family transfer, health status and functioning, health care and insurance, work retirement and pension as well as income. We offer body examination and blood test for respondents. 
+　　I was an investigator of [Institute of Social Science Survey (iSSS)], I investigated in Hunan and Guizhou province for more than a month. The tasks included the policy history of family planning, social insurance, and the situation of nursing institution for the aged. I also investigated the Respondents in almost every aspect from family information, family transfer, health status and functioning, health care and insurance, work retirement and pension as well as income. We offer body examination and blood test for respondents. 
 
 ### Assistent intern-OIR, PKU (2016)
 　　The [Office of International Relations, Peking University] is the official administrative department of Peking University (PKU) on implementing the PKU international policies and on coordinating its international exchanges and cooperation.
