@@ -22,3 +22,4 @@ title: Intern&Research
 [China Health and Retirement Longitudinal Study (CHARLS)]:http://charls.pku.edu.cn
 [Office of International Relations, Peking University]:http://www.oir.pku.edu.cn/
 [China Banking Regulatory Commission]:http://www.cbrc.gov.cn
+[Institute of Social Science Survey (iSSS)]:http://www.isss.edu.cn/
