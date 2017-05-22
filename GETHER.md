@@ -7,11 +7,11 @@ title: GETHER
 ### 经院学生会的活动很有意义 (2014)
 　　扫描屏幕二维码，关注北大经院人，拥抱光明的力量
 * pkueconer
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/pkueconer.png" width="30%" height="30%" />
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/pkueconer.png" width="30%" height="30%" />
 
 ### [书院]五星级 (517)
 　　不是啤酒学堂，但是啤酒好喝  
-　　不是五星酒店，但是住着舒服  
+　　不是五星酒店，但是住着舒服  
 　　不是境外地区，但是可以谷歌  
 
 ### 臭氧污染是什么鬼（518）
