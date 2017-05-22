@@ -5,14 +5,14 @@ tagline:
 url: http://xinchishenwang.website
 # Owner/author information
 owner:
-  name:           荡秋千
+  name:           新驰神往
   avatar:         zcxsh.png
 #  bio:
   #email:         
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   facebook:
-  #github: Yuxin-Fan
+  github: xinchishenwang
   linkedin: 
   instagram:
   lastfm:
@@ -28,13 +28,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 1 Home
     url: /
-  - title: GETHER
+  - title: 2 GETHER
     url: /GETHER/
-  - title: MUSKETEERS
+  - title: 3 MUSKETEERS
     url: /MUSKETEERS/
-  - title: EVER
+  - title: 4 EVER
     url: /EVER/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
