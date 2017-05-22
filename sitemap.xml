@@ -4,19 +4,19 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://fanyuxin.info/</loc>
+      <loc>http://xinchishenwang.website/</loc>
     </url>
     <url>
-      <loc>http://fanyuxin.info/projects/</loc>
+      <loc>http://xinchishenwang.website/GETHER/</loc>
     </url>
     <url>
-      <loc>http://fanyuxin.info/blogs/</loc>
+      <loc>http://xinchishenwang.website/MUSKETEERS/</loc>
     </url>
     <url>
-      <loc>http://fanyuxin.info/timelines/</loc>
+      <loc>http://xinchishenwang.website/timelines/</loc>
     </url>
     <url>
-      <loc>http://fanyuxin.info/hobbies/</loc>
+      <loc>http://xinchishenwang.website/EVER/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
