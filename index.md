@@ -4,7 +4,7 @@ layout: page
 
 ## 关于我们  
 
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/nop.png"  height="45%" />  
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/nop.png"  height="45%" />  
 　　你想看的介绍被外星人偷走了  
   
 ## 关于本站
