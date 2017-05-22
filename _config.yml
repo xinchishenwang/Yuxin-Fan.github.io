@@ -1,18 +1,18 @@
-title: Yuxin Fan
-#tagline:          A short tagline
+title: 你我各坐一边
+tagline:     
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://fanyuxin.info
+url: http://xinchishenwang.website
 # Owner/author information
 owner:
-  name:           Yuxin Fan
-  avatar:         fyxtx.png
+  name:           荡秋千
+  avatar:         zcxsh.png
 #  bio:
-  email:        fanyuxin@pku.edu.cn 
+  #email:         
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   facebook:
-  github: Yuxin-Fan
+  #github: Yuxin-Fan
   linkedin: 
   instagram:
   lastfm:
@@ -30,12 +30,12 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Intern&research
-    url: /intern&research/
-  - title: Blogs
-    url: /blogs/
-  - title: Hobbies
-    url: /hobbies/
+  - title: GETHER
+    url: /GETHER/
+  - title: MUSKETEERS
+    url: /MUSKETEERS/
+  - title: EVER
+    url: /EVER/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
