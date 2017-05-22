@@ -8,7 +8,7 @@ title: GETHER
 ### 经院学生会的活动很有意义 (2014)
 扫描屏幕二维码，关注北大经院人，拥抱光明的力量
 > pkueconer
-> <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/beidajingyuanren.png" width="70%" height="70%" />
+> <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/beidajingyuanren.jpg" width="70%" height="70%" />
 ### [书院]五星级 (517)
 不是啤酒学堂，但是啤酒好喝</br>
 不是五星酒店，但是住着舒服</br>
