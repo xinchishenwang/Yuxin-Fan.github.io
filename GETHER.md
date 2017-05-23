@@ -79,7 +79,7 @@ title: GETHER
 > 　　雨水长  
 > 　　渔人的孩子你为什么长大  
 > 
-> 　　树叶黄  
+> 　　树叶黄  
 > 　　秋风凉  
 > 　　渔人的歌儿他还在那里唱（还是这样/漂洋过来）  
 
@@ -125,7 +125,8 @@ title: GETHER
 你早晨听到的时候会想什么呢XD    
 　　——当然是想你了ㅋㅋ  
 　　——看着感人歌词，听着你的声音，湿红我的眼眶  
-　　太幸福
+　　——太幸福
+　　
 <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/HenHao.jpg" width="45%" height="45%" />
    
 >   《很好》  
