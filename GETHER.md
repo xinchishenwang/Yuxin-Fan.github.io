@@ -233,4 +233,4 @@ title: GETHER
 　　这天当然要配图了  
 　　不过要配上一首曾经就写好，却在今天才看到的《很幸运》  
 
- <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/henxingyun.jpg"  width="80%" />  
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/henxingyun1.png"  width="80%" />  
