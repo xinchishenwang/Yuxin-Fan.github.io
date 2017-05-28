@@ -217,3 +217,20 @@ title: GETHER
 　　我有你便无缺残  
 　　哪怕难奢求大路坦坦  
 　　我们的故事仍会像是史诗一般  
+
+### 感情激发出绘画天赋（526）  
+　　也许文字和音乐才是表达感情最好的方式，可无奈自己五音不全而又几乎胸无点墨，然而即使胸中无墨，笔下有墨也可以墨出什么妙处，故事这么美好，不画出来怎么行？
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/yiqi.jpg"  width="80%" />  
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/swimming.jpg"  width="80%" />    
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/taekwondo.jpg"  width="80%" />  
+其实也并不止这些，之前的那首《很好》也画了插图！     
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/henhao2.jpg"  width="100%" />  
+
+### 期盼已久的周六终于到了（527）  
+　　1° 去天津开会那么曲折辛苦，却还不忘给我带东西，很感动。  
+　　2° 终于等到你，也终于躺倒彼此怀里  
+　　3° 以下略掉好了，反正应该也不会忘  
+　　这天当然要配图了  
+　　不过要配上一首曾经就写好，却在今天才看到的《很幸运》  
+
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/henxingyun.jpg"  width="80%" />  
