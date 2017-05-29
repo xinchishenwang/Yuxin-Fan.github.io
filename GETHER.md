@@ -40,9 +40,10 @@ title: GETHER
    淡淡   
    甜甜   
 ###### 回应 
-　　眼耳鼻舌口，都被你诱惑  　
-　　心肝脾肺肾，愿被你所夺  
-　　眼神相交错，来电光石火  
+　　眼耳鼻舌口，都被你诱惑  
+　　心肝脾肺肾，愿被你所夺  
+　　眼神相交错，来电光石火  
+  
 
 <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="80%" />  
 
