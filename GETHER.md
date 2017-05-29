@@ -11,8 +11,7 @@ title: GETHER
 ### 有你在身边（5.29的早晨）   
 
    白天的暴晒、汗水、劳累   
-   都不算什么   
-   因为能够肆无忌惮   
+   都不算什么      因为能够肆无忌惮   
    在你面前躺尸打鼾   
    
 ————   
@@ -22,8 +21,7 @@ title: GETHER
    你让我不必再伪装   
    不必在流浪   
   
-————   
-   睡在   
+————      睡在   
    胸膛之中   
    臂膀之下   
    不知道要做什么梦   
@@ -45,7 +43,7 @@ title: GETHER
 　　眼神相交错，来电光石火  
   
 
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="80%" />  
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="50%" />  
 
 
 
