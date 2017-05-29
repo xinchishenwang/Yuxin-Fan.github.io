@@ -38,9 +38,14 @@ title: GETHER
    不记得梦了什么   
    只记得放松地休憩   
    淡淡   
-   甜甜   
+   甜甜   
+* 回应  
+　　眼耳鼻舌口，都被你诱惑  　
+　　心肝脾肺肾，愿被你所夺  
+　　眼神相交错，来电光石火  
 
-   
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="80%" />  
+
 
 
 
@@ -273,4 +278,18 @@ title: GETHER
 　　这天当然要配图了  
 　　不过要配上一首曾经就写好，却在今天才看到的《很幸运》  
 
- <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/henxingyun1.png"  width="80%" />  
+ <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/henxingyun1.png"  width="80%" />  
+ 
+ ### 在一起一周纪念（528） 
+
+　　竟然有些不相信只是一周的时间，过去的岁月有上千个一周，可没有哪个像和你在一起的这第一个一周这样丰富而且幸福，幸福到眩晕。    
+　　我想用整生的爱去守护我们在一起的幸福，用整生的幸运与你一直一同前行，用整生的浪漫为你带来感动与欢欣，用整生的勇气与智慧在我们同行的道路上与你一同面对该面对的困难，承担该承担的责任。  
+　　生活不会是一帆风顺的，未来有很多未知，我们可能面对很多阻力，也难以避免短暂的分离，可是只要我们都有决心、有信心一直携手同行，那么就一定会幸福下去。  
+　　想与你一起做的事情太多太多，也愿：  
+>时光静好，与君语  
+>细水流年，与君同  
+>繁华落尽，与君老  
+
+　　你愿意吗？
+　　
+
