@@ -41,11 +41,9 @@ title: GETHER
 ###### 回应 
 　　眼耳鼻舌口，都被你诱惑  
 　　心肝脾肺肾，愿被你所夺  
-　　眼神相交错，来电光石火  
+　　眼神相交错，来电光石火   
   
-  
-
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
+  <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
 
 ### 一个人的跑步（530）    
 　　路标    
@@ -53,10 +51,10 @@ title: GETHER
 　　步履    
 　　追随你    
 　　轨迹    
-　　围绕你     
+　　围绕你   
   
-<iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/530.gif"  width="40%" />  
-
+ <iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/530.gif"  width="40%" />  
+ 
 应酬，不能说不开心，毕竟也是好友相聚   
 只是希望有一天能带上你   
 又很犹豫，不希望你熬夜，想让你早点安然睡去   
