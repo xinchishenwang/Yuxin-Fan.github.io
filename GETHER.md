@@ -43,6 +43,7 @@ title: GETHER
 　　心肝脾肺肾，愿被你所夺  
 　　眼神相交错，来电光石火  
   
+  
 
 <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
 
@@ -52,9 +53,17 @@ title: GETHER
 　　步履    
 　　追随你    
 　　轨迹    
-　　围绕你    
+　　围绕你     
+  
 <iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/530.gif"  width="40%" />  
 
+应酬，不能说不开心，毕竟也是好友相聚   
+只是希望有一天能带上你   
+又很犹豫，不希望你熬夜，想让你早点安然睡去   
+深夜归来，多么希望在床榻看到你的身影   
+看到你平静的带着笑的脸庞   
+就知道你一定在做着幸福的梦   
+晚安啦，明晚一起跑步~   
 
 ### 经院学生会的活动很有意义 (2014)
 　　扫描屏幕二维码，关注北大经院人，拥抱光明的力量
