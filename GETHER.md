@@ -44,7 +44,7 @@ title: GETHER
 　　眼神相交错，来电光石火  
   
 
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
+<iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
 
 ### 一个人的跑步（530）    
 　　路标    
