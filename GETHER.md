@@ -44,7 +44,7 @@ title: GETHER
 　　眼神相交错，来电光石火  
   
 
-<iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
 
 ### 一个人的跑步（530）    
 　　路标    
@@ -53,7 +53,7 @@ title: GETHER
 　　追随你    
 　　轨迹    
 　　围绕你    
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/530.gif"  width="40%" />  
+<iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/530.gif"  width="40%" />  
 
 
 ### 经院学生会的活动很有意义 (2014)
