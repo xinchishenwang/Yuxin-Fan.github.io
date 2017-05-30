@@ -42,9 +42,9 @@ title: GETHER
 　　眼耳鼻舌口，都被你诱惑  
 　　心肝脾肺肾，愿被你所夺  
 　　眼神相交错，来电光石火   
-  
+     
   <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
-
+   
 ### 一个人的跑步（530）    
 　　路标    
 　　指向你    
@@ -52,9 +52,10 @@ title: GETHER
 　　追随你    
 　　轨迹    
 　　围绕你   
-  
+     
  <iframe src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/530.gif"  width="40%" />  
- 
+       
+    
 应酬，不能说不开心，毕竟也是好友相聚   
 只是希望有一天能带上你   
 又很犹豫，不希望你熬夜，想让你早点安然睡去   
@@ -67,6 +68,7 @@ title: GETHER
 　　扫描屏幕二维码，关注北大经院人，拥抱光明的力量
 * pkueconer  
 <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/pkueconer.png" width="45%" height="45%" />
+   
 
 ### [书院]五星级 (517)
 　　不是啤酒学堂，但是啤酒好喝  
