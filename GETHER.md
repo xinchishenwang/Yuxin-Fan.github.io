@@ -26,8 +26,7 @@ title: GETHER
 　　胸膛之中     
 　　臂膀之下     
 　　不知道要做什么梦     
-　　只知道幸福地拉扯     
-　　安静     
+　　只知道幸福地拉扯     　　安静     
 　　祥和    
  
 
@@ -44,7 +43,7 @@ title: GETHER
 　　心肝脾肺肾，愿被你所夺  
 　　眼神相交错，来电光石火   
      
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/sleep1.png" width="45%"  />
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/sleep1.png" width="45%" />
    
 ### 一个人的跑步（530）    
 　　路标    
@@ -53,7 +52,7 @@ title: GETHER
 　　追随你    
 　　轨迹    
 　　围绕你   
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/530.jpg" width="50%"  />
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/530.jpg" width="50%" />
 ————     
 应酬，不能说不开心，毕竟也是好友相聚   
 只是希望有一天能带上你   
