@@ -1,3 +1,4 @@
+
 ---
 layout: page
 permalink: /GETHER/index.html
@@ -26,8 +27,9 @@ title: GETHER
 　　胸膛之中     
 　　臂膀之下     
 　　不知道要做什么梦     
-　　只知道幸福地拉扯     　　安静     
-　　祥和    
+　　只知道幸福地拉扯      
+　　安静     
+　　祥和        
  
 
 ————    　　   
@@ -51,8 +53,8 @@ title: GETHER
 　　步履    
 　　追随你    
 　　轨迹    
-　　围绕你   
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/530.jpg" width="50%" />
+　　围绕你     
+  <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/run.jpg" width="50%" />
 ————     
 应酬，不能说不开心，毕竟也是好友相聚   
 只是希望有一天能带上你   
