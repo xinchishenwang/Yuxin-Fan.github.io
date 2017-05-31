@@ -12,7 +12,7 @@ title: GETHER
 　　白天的暴晒、汗水、劳累    
 　　都不算什么    
 　　因为能够肆无忌惮     
-　　在你面前躺尸打鼾     
+ 　　在你面前躺尸打鼾     
    
 ————     
 　　不用硬撑着睁开眼     
@@ -31,20 +31,20 @@ title: GETHER
 　　祥和    
  
 
-————    　　
-　　醒来     
-　　抚摸脸颊     
-　　抚摸嘴唇     
-　　不记得梦了什么       
-　　只记得放松地休憩       
-　　淡淡    
-　　甜甜     
+————    　　   
+　　醒来       
+　　抚摸脸颊       
+　　抚摸嘴唇       
+　　不记得梦了什么         
+　　只记得放松地休憩         
+　　淡淡      
+　　甜甜       
 ###### 回应 
 　　眼耳鼻舌口，都被你诱惑  
 　　心肝脾肺肾，愿被你所夺  
 　　眼神相交错，来电光石火   
      
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.png"  width="40%" />  
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/sleep1.png" width="45%"  />
    
 ### 一个人的跑步（530）    
 　　路标    
@@ -53,7 +53,7 @@ title: GETHER
 　　追随你    
 　　轨迹    
 　　围绕你   
-
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/530.jpg" width="50%"  />
 ————     
 应酬，不能说不开心，毕竟也是好友相聚   
 只是希望有一天能带上你   
