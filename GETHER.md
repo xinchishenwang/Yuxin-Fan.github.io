@@ -75,7 +75,7 @@ title: GETHER
 　　然而有种叫做蚊子的物种也觊觎你的身体    
 　　如何是好？  
 　　***裸露我们的本色，六神花露水！***  
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/image/sixgods.PNG" width="60%"  />  
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sixgods.PNG" width="60%"  />  
 
 ### 经院学生会的活动很有意义 (2014)
 　　扫描屏幕二维码，关注北大经院人，拥抱光明的力量
