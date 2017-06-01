@@ -44,8 +44,8 @@ title: GETHER
 　　心肝脾肺肾，愿被你所夺  
 　　眼神相交错，来电光石火   
      
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/sleep1.png" width="45%" />
-   
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.jpg" width="45%" />
+   
 ### 一个人的跑步（530）    
 　　路标    
 　　指向你    
@@ -53,7 +53,8 @@ title: GETHER
 　　追随你    
 　　轨迹    
 　　围绕你     
-  <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/run.jpg" width="50%" />
+  <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master//images/run.jpg" width="50%" />  
+  
 ————     
 应酬，不能说不开心，毕竟也是好友相聚   
 只是希望有一天能带上你   
@@ -61,7 +62,22 @@ title: GETHER
 深夜归来，多么希望在床榻看到你的身影   
 看到你平静的带着笑的脸庞   
 就知道你一定在做着幸福的梦   
-晚安啦，明晚一起跑步~   
+晚安啦，明晚一起跑步~      
+
+### 清凉有情，点滴有爱  
+　　蹭着你的胳膊  
+　　或紧握你的手  
+　　伴随着风吹拂树叶的响动  
+　　听你讲一个关于童年的故事  
+
+　　贴着你的额头  
+　　或亲吻你的唇  
+　　静谧的夜晚也变得激动  
+　　然而有种叫做蚊子的物种也觊觎你的身体  
+
+　　如何是好？  
+　　***裸露我们的本色，六神花露水！***  
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/image/sixgods.png" width="60%"  />  
 
 ### 经院学生会的活动很有意义 (2014)
 　　扫描屏幕二维码，关注北大经院人，拥抱光明的力量
