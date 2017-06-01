@@ -72,8 +72,7 @@ title: GETHER
 　　贴着你的额头  
 　　或亲吻你的唇  
 　　静谧的夜晚也变得激动  
-　　然而有种叫做蚊子的物种也觊觎你的身体  
-
+　　然而有种叫做蚊子的物种也觊觎你的身体    
 　　如何是好？  
 　　***裸露我们的本色，六神花露水！***  
 <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/image/sixgods.png" width="60%"  />  
