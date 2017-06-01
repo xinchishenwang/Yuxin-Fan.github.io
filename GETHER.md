@@ -64,7 +64,7 @@ title: GETHER
 就知道你一定在做着幸福的梦     
 晚安啦，明晚一起跑步~      
 
-### 清凉有情，点滴有爱  
+### 清凉有情，点滴有爱（531）       
 　　蹭着你的胳膊  
 　　或紧握你的手  
 　　伴随着风吹拂树叶的响动  
@@ -75,7 +75,7 @@ title: GETHER
 　　然而有种叫做蚊子的物种也觊觎你的身体    
 　　如何是好？  
 　　***裸露我们的本色，六神花露水！***  
-<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/image/sixgods.png" width="60%"  />  
+<img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/image/sixgods.PNG" width="60%"  />  
 
 ### 经院学生会的活动很有意义 (2014)
 　　扫描屏幕二维码，关注北大经院人，拥抱光明的力量
