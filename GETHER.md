@@ -46,13 +46,13 @@ title: GETHER
      
 <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/sleep1.jpg" width="45%" />
    
-### 一个人的跑步（530）    
-　　路标    
-　　指向你    
-　　步履    
-　　追随你    
-　　轨迹    
-　　围绕你     
+### 一个人的跑步（530）      
+　　路标      
+　　指向你      
+　　步履      
+　　追随你      
+　　轨迹      
+　　围绕你       
   <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master//images/run.jpg" width="50%" />  
   
 ————     
