@@ -11,15 +11,21 @@ title: GETHER
 　　是我朝向西南四十五度的挂念        
   
 ### 心在一起就好啦    
-    想来想去还是不要搞的太酸啦   
-    我心照明月   
-    还是要逗比欢脱才好   
-    洪崖洞的东西很好吃   
-    下次一定要带你来    
+
+    想来想去还是不要搞的太酸啦     
+    
+    我心照明月     
+    
+    还是要逗比欢脱才好     
+    
+    洪崖洞的东西很好吃      
+    
+    下次一定要带你来     
+    
     
-    <img src="xinchishenwang.github.io/images/Screenshot_20170606-001541.png" width=50% />
+   <img src="xinchishenwang.github.io/images/Screenshot_20170606-001541.png" width=50% />
      
-    <img src="xinchishenwang.github.io/images/Screenshot_20170606-001550.png" width=50% />
+   <img src="xinchishenwang.github.io/images/Screenshot_20170606-001550.png" width=50% />
      
 ## 5.29-6.4  
 
