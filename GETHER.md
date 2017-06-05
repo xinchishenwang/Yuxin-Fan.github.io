@@ -23,10 +23,10 @@ title: GETHER
     下次一定要带你来     
     
     
-   <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/images/Screenshot_20170606-001541.png" width="50%" />        
+   <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/Screenshot_20170606-001541.png" width="50%" />        
    
      
-   <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/images/Screenshot_20170606-001550.png" width="50%" />
+   <img src="http://github.com/xinchishenwang/xinchishenwang.github.io/raw/master/images/Screenshot_20170606-001550.png" width="50%" />
      
 ## 5.29-6.4  
 
