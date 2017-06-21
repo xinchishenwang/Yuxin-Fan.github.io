@@ -3,7 +3,7 @@ layout: page
 permalink: /GETHER/index.html
 title: GETHER
 ---  
-###在一起一个月纪念（621）  
+### 在一起一个月纪念（621）  
 太久不写了  
 然而不是因为想说的不多  
 说幸福也好，幸运也罢  
